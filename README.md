@@ -14,3 +14,5 @@ homeworks
 # branches
 added new branch
 
+# pycharm
+some changes from PyCharm IDE
