@@ -3,3 +3,6 @@
 
 #ignore all pdf files
 *.pdf
+
+#ignore IDE config files
+*.idea
